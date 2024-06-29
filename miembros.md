@@ -12,7 +12,7 @@
 * Luke Cage
 * QuickSilver
 * Scarlet Witch
-* Spider Woman
+* Spider Woman<>
 * Thor
 * Vision
 * Wasp
