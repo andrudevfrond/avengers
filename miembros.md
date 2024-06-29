@@ -3,7 +3,6 @@
 * Black panther
 * Black Widow
 * Capitán America
-* Capitán Marvel
 * Falcon
 * Hank Pym
 * Hawkeye
@@ -12,7 +11,7 @@
 * Luke Cage
 * QuickSilver
 * Scarlet Witch
-* Spider Woman<>
+* Spider Woman
 * Thor
 * Vision
 * Wasp
